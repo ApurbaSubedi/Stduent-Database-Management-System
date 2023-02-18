@@ -1,4 +1,4 @@
-//Made by Isha pant,Apurba Subedi and Apeksha Shrestha
+//Made by Isha pant,Apurba Subedi and Apeksha Shrestha.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
